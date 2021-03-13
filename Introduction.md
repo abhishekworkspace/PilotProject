@@ -84,12 +84,27 @@ Working with Methods
 Pass by value and by reference and out parameters
 
 Misc…
+
 OOPs-Concept
 
-Learning about Class, Object, Component, Encapsulation, Inheritance, Polymorphism
-& Object Creation and Instantiation.
+Learning about Class, 
+
+Object,
+
+Component, 
+
+Encapsulation,
+
+Inheritance, 
+
+Polymorphism
+
+Object Creation and Instantiation.
+
 OOPs-Programming Encapsulation
+
 Understanding Encapsulation Concept through an example.
+
 OOPs-Inheritance
 
 Introduction to Inheritance
@@ -101,6 +116,7 @@ Type Casting of Reference Types
 Static and Dynamic Binding
 
 Abstract Class
+
 OOPs-Interface & Polymorphism
 
 What is Polymorphism
@@ -110,6 +126,7 @@ Overview of Interface
 Interface with examples
 
 Types of Inheritance
+
 Collections and Generics
 
 Introducing Collections .
@@ -131,6 +148,7 @@ Generic Methods
 Generic Collections
 
 Selecting a Collection Class 
+
 Assemblies and GAC
 
 What is a DLL and how is it different from EXE
@@ -149,7 +167,8 @@ Internal Access Specifier
 
 Types of Assemblies
 
-Global Assembly Cache
+Global Assembly Cache 
+
 Exception Handling
 
 Defining Exception
@@ -169,14 +188,16 @@ What is a streams?
 
 Types of Stream
 
-Standard I/O StreamsConsole
+Standard I/O Streams Console
 
 Handling text in files
 
 Dealing with Binary files
 
-Serialization / Deserialization
+Serialization / Deserialization 
+
 Unsafe Code
+
 Reflection and Attributes
 
 What is Reflection?
@@ -205,6 +226,7 @@ Tuples
 Caller Method Information
 
 Configuration File
+
 Developing GUI Application Using WINFORMS
 
 Basic Controls
@@ -232,6 +254,7 @@ Using Components like Timer, FileSystemWatcher, Process, BackgroundWorker
 Drag and Drop
 
 Working with Advanced Controls like TreeView and ListView
+
 Database Programming Using ADO.NET
 
 Prerequisite - Knowledge of SQL Queries
