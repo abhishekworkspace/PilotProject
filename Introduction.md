@@ -50,6 +50,7 @@ Importance of Exit code of an application
 Different valid forms of Main
 
 Compiling a C# program using commandline utility CSC.EXE
+
 C # Language Syntax
 
 Why Datatypes
@@ -88,7 +89,7 @@ OOPs-Concept
 Learning about Class, Object, Component, Encapsulation, Inheritance, Polymorphism
 & Object Creation and Instantiation.
 OOPs-Programming Encapsulation
- Understanding Encapsulation Concept through an example.
+Understanding Encapsulation Concept through an example.
 OOPs-Inheritance
 
 Introduction to Inheritance
@@ -302,11 +303,17 @@ Understanding Tier and Layer
 Dividing Application into multiple layers
 
 Developing an application using Layered Architecture
+
 a. Creating Table and Stored Procedure
+
 b.Creating Data Class
+
 c.Creating DAL Class
+
 d.Creating BO Class
+
 e.Creating Form and handlingevents
+
 f.Creating Dialog Box for Add and Edit OPerations.
 XML
 
@@ -455,7 +462,9 @@ Example Programs.
 Understanding AutoPostBack.
 
 Types of Server Controls
+
 a. HTML controls.
+
 b. Web Server Controls.
 
 Exploring Server Controls.
@@ -509,9 +518,13 @@ Response.Redirect
 Server.Transfer
 
 CrossPagePostBack property of Button
+
 a. Accessing controls of PreviousPage
+
 b. Accessing Properties of PreviousPage
+
 c. PreviousPageType page directive
+
 Creating a Layout Using Master Pages
 
 Why Master Pages.
@@ -520,7 +533,9 @@ Significance of ContentPlaceHolder Tag in MasterPage and Content Tag in
 WebForm.
 
 How a control of MasterPage can be accessed / programmed in WebForm.
+
 a. Master.FindControl
+
 b. Public property in MasterPage and <%@MasterType directive in WebForm.
 
 Load and LoadComplete events of the Page and MasterPage classes.
@@ -597,9 +612,13 @@ HttpApplication Class
 Events of HttpApplication Object
 
 Examples
+
 a. Url Rewriting 
+
 b. Handling Errors
+
 c. Tracking number of Sessions
+
 Understanding Configuration File - Web.Config
 
 Importance of web.config
@@ -628,10 +647,13 @@ Page Fragment Caching
 Data Caching
 
 SQL Cache Invalidation
+
 a. Notification-based Invalidation
+
 b. Polling-based Invalidation
 
 Expiration Policies and Cache Dependencies
+
 Authentication & Authorization
 
 Authentication & Authorization
@@ -675,12 +697,19 @@ Architecture
 Working with AJAX Pro
 
 Using AJAX.NET Controls
+
 a Accordion
+
 b. Calendar
+
 c. CascadingDropDow
+
 d. CollapsiblePanel
+
 e. FilteredTextBox
+
 f. NumericUpDown
+
 g. ModalPopup
+
 h. PopupControl
-PDF to Word
