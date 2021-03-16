@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Basic_CSharp", "Basic_CSharp\", "{D3F9076F-BD02-4B95-B12F-63276D9F28BE}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/Basic_CSharp"
+		Debug.AspNetCompiler.PhysicalPath = "Basic_CSharp\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Basic_CSharp\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Basic_CSharp"
+		Release.AspNetCompiler.PhysicalPath = "Basic_CSharp\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Basic_CSharp\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1222"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3F9076F-BD02-4B95-B12F-63276D9F28BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F9076F-BD02-4B95-B12F-63276D9F28BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
