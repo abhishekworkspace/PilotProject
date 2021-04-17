@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Exceptions.aspx.cs" Inherits="Exceptions" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default2.aspx.cs" Inherits="Default2" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -9,8 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-         Enter your age : <asp:TextBox ID="txtaddData"  runat="server"></asp:TextBox>
-    <asp:Button ID="btnSubmit3" runat="server" Text="Submit" OnClick="btnSubmit_Click" /> 
+    
     </div>
     </form>
 </body>

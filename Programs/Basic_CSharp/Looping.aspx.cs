@@ -14,6 +14,7 @@ public partial class Looping : System.Web.UI.Page
             for(int j=10; j<i; j++)
             {
                 if (i % j == 0)
+
                     HttpContext.Current.Response.Write("<br> : " + (j + i));
             }
         }

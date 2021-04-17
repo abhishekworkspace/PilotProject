@@ -9,7 +9,11 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
+ <!--    Enter Data : <asp:TextBox ID="txtData" runat="server"></asp:TextBox>
+    <asp:Button ID="btnSubmit" runat="server" Text="Submit" onclick="btnSubmit_Click" /> -->
+   
+    Enter new Data : <asp:TextBox ID="txtmoreData" runat="server"></asp:TextBox>
+    <asp:Button ID="btnSubmit1" runat="server" Text="Submit" OnClick="btnSubmit_Click" />
     </div>
     </form>
 </body>
